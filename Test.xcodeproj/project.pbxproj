@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E460C0212AA62E9200D02165 /* TestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E460C0202AA62E9200D02165 /* TestApp.swift */; };
+		E460C0212AA62E9200D02165 /* BatteryIconApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E460C0202AA62E9200D02165 /* BatteryIconApp.swift */; };
 		E460C0232AA62E9200D02165 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E460C0222AA62E9200D02165 /* ContentView.swift */; };
 		E460C0252AA62E9300D02165 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E460C0242AA62E9300D02165 /* Assets.xcassets */; };
 		E460C0282AA62E9300D02165 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E460C0272AA62E9300D02165 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		E460C01D2AA62E9200D02165 /* Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E460C0202AA62E9200D02165 /* TestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestApp.swift; sourceTree = "<group>"; };
+		E460C0202AA62E9200D02165 /* BatteryIconApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BatteryIconApp.swift; sourceTree = "<group>"; };
 		E460C0222AA62E9200D02165 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E460C0242AA62E9300D02165 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E460C0272AA62E9300D02165 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		E460C01F2AA62E9200D02165 /* Test */ = {
 			isa = PBXGroup;
 			children = (
-				E460C0202AA62E9200D02165 /* TestApp.swift */,
+				E460C0202AA62E9200D02165 /* BatteryIconApp.swift */,
 				E460C0222AA62E9200D02165 /* ContentView.swift */,
 				E460C0242AA62E9300D02165 /* Assets.xcassets */,
 				E460C0262AA62E9300D02165 /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E460C0232AA62E9200D02165 /* ContentView.swift in Sources */,
-				E460C0212AA62E9200D02165 /* TestApp.swift in Sources */,
+				E460C0212AA62E9200D02165 /* BatteryIconApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

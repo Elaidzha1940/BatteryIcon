@@ -1,9 +1,13 @@
-//  /
+//  /*
+//
+//  Project: BatteryIcon
 //  ContentView.swift
-//  Test
+//  Created by: Elaidzha Shchukin
+//  Date: 04.09.2023
 //
-//  Created by Elaidzha Shchukin on 04.09.2023.
+//  Status: in progress | Decorated
 //
+//  */
 
 import SwiftUI
 
